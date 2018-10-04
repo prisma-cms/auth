@@ -1,6 +1,6 @@
 {
   "name": "@prisma-cms/prisma-auth",
-  "version": "1.0.4-beta",
+  "version": "1.0.5-beta",
   "description": "Describe @prisma-cms/prisma-auth here",
   "main": "lib/index.js",
   "module": "es/index.js",
